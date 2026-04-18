@@ -1,0 +1,6 @@
+{
+  "name": "Arabic YouTuber AI Studio",
+  "description": "A charismatic AI-powered Arabic YouTuber persona that converts text to high-quality speech with a natural, engaging tone.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
